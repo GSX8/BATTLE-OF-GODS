@@ -9,6 +9,7 @@ Blender : Character Modelling ;
 Playmaker : A Visual Scripting Tool ;
 C# : Scripting Language
 
+Source Code is not Uploaded as of this moment.
 
 Project Development will continue soon.
 
