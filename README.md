@@ -1,7 +1,7 @@
 # BATTLE-OF-GODS
 A 3D versus battle Game currently under development using Unity Game Engine.
 
-Technologies Used :
+**Technologies Used **
 
 > Unity 3D : Game Engine 
 > Adobe Mixamo : Character Animator 
